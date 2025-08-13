@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Import HTTP server and handler classes from Python's standard library.
 from http.server import HTTPServer, SimpleHTTPRequestHandler
 
